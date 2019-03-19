@@ -9,3 +9,5 @@ run this in Ubuntu16.04LTS enviornment or VM
 
 cd to the GenesisHash-master directory 
 sudo ./generator.sh generate_hashes
+
+If it runs sucessfully, it will create a folder GenesisH0 and 3 files containing the genesis and merkle hashes for the 3 network.
